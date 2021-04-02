@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T04:26:56.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="L4rR_QV1DjMMrkxPuDsy" version="14.5.1" type="github"><diagram id="QUzMeOpbfW3cwRHKZyZd" name="Page-1">7Vlbc5s4FP41ekzGgLk9go3byXZ3Ms1Ds08dBRRDixEry7HdX7/ngDDXOO7GCWm6MxkifRK6fOecTweZGLPV7oOgefwnj1hK9Em0I8ac6Lrt6PBEYF8CmmU4JbIUSaSwGrhJfjAFThS6SSK2bnWUnKcyydtgyLOMhbKFUSH4tt3tnqftWXO6ZD3gJqRpH/2SRDIuUUe3a/wjS5ZxNbNmuWXLilad1U7WMY34tgEZATFmgnNZlla7GUuRvIqX8r3FI62HhQmWyVNe+BhrnyLv6kdquzf5Zul++5zfXhjlKA803agNq8XKfcUAi4AQVeVCxnzJM5oGNeoLvskihtNMoFb3+cR5DqAG4Dcm5V5Zl24kByiWq1S19reidrfmGxGyI+uvXIKKJZNH+qlt4V4aEyiiPjC+YlLsoYNgKZXJQ9v4VPnQ8tCvphkKiumfYF3rsx5YxAmI42DBnRPHIIFLPI34JhYA8fqWafO+jRPJbnJa8LWFaDyR4wcmJNsdZUW1GpUrV8Fc1bd1ZBywuBEV1uT5RN7L28/5l+vg6jreX/91tdh71Lqw35D7dnzrv/mz3vfnwY1PX8l9ByfXBvz396Bdm7wS78dW2aBdu4Q6CUzia8QFpbCJNyW+hwV3SrxCTUBTfJsEgC9QUBDRiLcgwYL4M2zVFw+w4kUu+H0CllE4HGNWClz4dwJKSyzpj81m4hMmrKc9MptFVyhN2d06L4xYzs6TKIR/NM/TJAQuedZYyBvTPX06tu69pWP7ZwNwcEP6qQf5a53bw6scoF0FSRUjFXDPgYKmQax/NrxquFgXlHrQQXPyXd14GAVja4Z/GEkOBgHmBRbx3YFoU1PClspZ2ysBuLG6R0NJOzWUenEzYPGTQ+li9BTCfW+hND3xLHPGjKRpn3VwZ/haLB3csYnvD+XEgBRHAubEOvGCc5wNZ3VowxrboZ3/RerMNp06Y9tUs96bSlX3O0+n3OaYOlUtsyNUrlvoEzj5HDNhmAI83zeK1BfUq1CpF/l+f5Zfm2Ynj52M7tcDGRUQ6Fl4FKCYBMSdFZQuiKsVR0RA/EnRBMrjDdmiQzLQJdtM0jRZZlAOgTYmAEBS4aMj9VTDKomiMmAYaCC9K4ZCE+U8yWTBgekTc45jQYyUOnkuI027Rhr62JgMGEl/MSPZY2gN0CX2t83K3zjYpW1W9flOjV7W9qp2TpEy+yL1+Jf5aBplDgdRUKhQcQHgTgYipS9ZXTM/IUltG7+EQLljC5Q+pP8W8qnuPRwUq1KglGSZhUA5eAGC+Y9JXB917GldWkvBv7MZTzmI0jzjGcbRfZKmHeh0/Rqy39mNdsiOqgxY6xtt+pp6dbjgqW0WS4m/F3k4sL7Y7XaXIV81bp02IE+iUCK8gfqD4Va+w7O6rCqfgkWJYKH8uhEJdGgPut1uL+9oEm3U0L131znP1uyr3Oe4qJBHrNNlHfKiieIW36u3HL6PlLfYYzvL0J3OL51Z6/0z60iYPOPQUq9eY1LUMHBHDrrSXK5fvVQb78lxtK4LlBvsDVR4wWE7Q44B1fpX17J7/du1EfwL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-02T04:27:31.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="yGLI4I9APulrOaDdDxbS" version="14.5.1" type="github">
+  <diagram id="QUzMeOpbfW3cwRHKZyZd" name="Page-1">
+    <mxGraphModel dx="782" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hh1LdAJzl79Spug9jRpX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hh1LdAJzl79Spug9jRpX-1" target="Hh1LdAJzl79Spug9jRpX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh1LdAJzl79Spug9jRpX-1" value="授权页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hh1LdAJzl79Spug9jRpX-2" target="ftXRpWPEJPhyPNJFyAa6-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hh1LdAJzl79Spug9jRpX-2" target="ftXRpWPEJPhyPNJFyAa6-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh1LdAJzl79Spug9jRpX-2" value="1. 展示用户信息（/v1/profile）&lt;br&gt;2. 展示应用信息（&amp;nbsp;/v1/oidc/application）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftXRpWPEJPhyPNJFyAa6-21" target="Hh1LdAJzl79Spug9jRpX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;第三方应用&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftXRpWPEJPhyPNJFyAa6-4" target="ftXRpWPEJPhyPNJFyAa6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-4" value="点击授权按钮（&amp;nbsp;/v1/oidc/authorize）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;第三方应用&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftXRpWPEJPhyPNJFyAa6-10" target="ftXRpWPEJPhyPNJFyAa6-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-10" value="登录/注册页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-12" value="如果发现未登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="ftXRpWPEJPhyPNJFyAa6-15" target="Hh1LdAJzl79Spug9jRpX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-15" value="完成登录注册" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-20" value="携带参数返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-21" value="https://xxx.com/oidc/authorize?appKey=key&amp;amp;redirect_uri=https://www.baidu.com/&amp;amp;response_type=code&amp;amp;scope=all" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ftXRpWPEJPhyPNJFyAa6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ftXRpWPEJPhyPNJFyAa6-2" target="ftXRpWPEJPhyPNJFyAa6-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="60" as="sourcePoint" />
+            <mxPoint x="380" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
